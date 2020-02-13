@@ -1,6 +1,8 @@
 #EXTM3U
+#EXTING:-1,NBCSN
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=glCB4smCWLyaCwiW0PzrTg&e=1581633217
 #EXTINF:-1,Sky Sports Action HD
-http://beastiptv.tv:25461/live/ryanramsey@email.com/yesmar/4084.m3u8
+http://beastiptv.tv:25461/live/ryanramsey@email.com/yesmar/4084.m3u8n
 #EXTINF:-1,Sky Sports Arena HD
 http://beastiptv.tv:25461/live/ryanramsey@email.com/yesmar/4085.m3u8
 #EXTINF:-1,Sky Sports Cricket HD
