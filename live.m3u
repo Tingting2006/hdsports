@@ -14,7 +14,7 @@ https://ul.cdn946.net:8443/hls/wtswasobwlmgv.m3u8?s=Rajy2ckyDJs2eYPcNXHGiw&e=158
 #EXTINF:-1,Sky Sports Golf HD
 http://beastiptv.tv:25461/live/ryanramsey@email.com/yesmar/4082.m3u8
 #EXTINF:0 tvg-name="Sky Sports Main Event HD" tvg-language="English" tvg-country="UK" tvg-id="Sky Sports Main Event HD" tvg-logo="https://i.ibb.co/gJkpwTB/download.jpg" group-title="Sports",Sky Sports Main Event HD
-https://ul.cdn946.net:8443/hls/kf236.m3u8?s=6TSN8abukZYLB0_l8Sz0lg&e=1587357258
+https://raw.githubusercontent.com/Tingting2006/hdsports/master/main_event.m3u8
 #EXTINF:-1,Sky Sports Mix HD
 http://beastiptv.tv:25461/live/ryanramsey@email.com/yesmar/4086.m3u8
 #EXTINF:-1,Sky Sports News HD
